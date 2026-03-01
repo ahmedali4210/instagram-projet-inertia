@@ -1,14 +1,18 @@
 <?php
 
 use App\Http\Controllers\Authcontroller;
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 
 
 Route::middleware('auth')->group(function(){
-    Route::get('/', function () {
-        return inertia('Home');
-    })->name('home');
+    // Route::get('/', function () {
+    //     return inertia('Home');
+    // })->name('home');
+
+    Route::get('/', [PostController::class, 'index'])->name('home');
+    Route::resource('posts', PostController::class);
 });
 
 Route::middleware('guest')->group(function(){
